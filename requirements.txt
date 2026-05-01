@@ -1,7 +1,7 @@
-tensorflow
 streamlit
+tensorflow-cpu==2.12.0
 numpy
-matplotlib
-scikit-learn
 pillow
+scikit-learn
+matplotlib
 seaborn
