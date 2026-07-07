@@ -1,3 +1,7 @@
-Bacterial leaf blight
-Brown spot
-Leaf smut
+Bacterial_leaf_blight
+Blast
+Brown_spot
+Hispa
+Leaf_smut
+Tungro
+healthy

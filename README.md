@@ -1,1 +1,0 @@
-# paddy-disease-recognition
